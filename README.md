@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>Colori for Mac</h1>
 <p align=center>
-  The only color palette generator you'll ever need;<br>from the confort of your... Mac!
+  The only color palette generator you'll ever need;<br>at from the confort of your... Mac!
 </p>
 
 
