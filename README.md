@@ -11,11 +11,11 @@
 
 # Download for free (3-day trial)
 
-▶︎ 
+▶︎ https://ensili.co/download/colori/colori-1.4.zip
 
 # Official Website
 
-▶︎ https://colori.app
+▶︎ https://ensili.co/app/colori
 
 # Issues
 
