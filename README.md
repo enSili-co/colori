@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/colori/colori-1.6.zip
+▶︎ https://ensili.co/download/colori/colori-1.7.zip
 
 # Official Website
 
